@@ -1,6 +1,6 @@
 import telebot as telebot
 
-bot = telebot.TeleBot('6217123349:AAFAC4E41Sj9-eHYVX2nSyv8D6wpo09zfgs')
+bot = telebot.TeleBot('TOKEN')
 
 
 def greeting(message):
